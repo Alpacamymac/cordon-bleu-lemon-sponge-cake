@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1200" width="2400" height="1200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <marker id="arrow" viewBox="0 0 14 14" refX="10" refY="7" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 1 2 L 12 7 L 1 12 z" fill="#000000" />
+    </marker>
+  </defs>
+
+  <rect width="2400" height="1200" fill="#ffffff" />
+
+  <text x="1200" y="105" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="52" font-weight="900" text-anchor="middle" fill="#000000">藍帶烘焙模擬與智慧協作系統架構</text>
+
+  <rect x="120" y="180" width="640" height="240" rx="20" fill="#ffffff" stroke="#000000" stroke-width="5" />
+  <text x="440" y="270" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">使用者操作介面</text>
+  <text x="440" y="340" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">網頁烘焙工作台</text>
+  <text x="440" y="385" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">即時文字輸入與對話</text>
+
+  <rect x="880" y="180" width="640" height="240" rx="20" fill="#f8f8f8" stroke="#000000" stroke-width="5" />
+  <text x="1200" y="270" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">語言模型主廚協作</text>
+  <text x="1200" y="340" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">烘焙諮詢與材料替換引導</text>
+  <text x="1200" y="385" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">失誤預測與科學補救建議</text>
+
+  <rect x="1640" y="180" width="640" height="240" rx="20" fill="#ffffff" stroke="#000000" stroke-width="5" />
+  <text x="1960" y="270" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">全域狀態管理核心</text>
+  <text x="1960" y="340" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">單一狀態機流程調度</text>
+  <text x="1960" y="385" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">跨步驟操作數據彙整</text>
+
+  <rect x="120" y="620" width="640" height="360" rx="20" fill="#ffffff" stroke="#000000" stroke-width="5" />
+  <text x="440" y="705" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">線性烘焙操作關卡</text>
+  <text x="440" y="775" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">七項原料秤重與筋度挑選</text>
+  <text x="440" y="825" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">溫水融化奶油與全蛋打發</text>
+  <text x="440" y="875" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">粉類過篩切拌與模具抹平</text>
+  <text x="440" y="925" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">預熱控溫與烘烤計時</text>
+
+  <rect x="880" y="620" width="640" height="360" rx="20" fill="#f8f8f8" stroke="#000000" stroke-width="5" />
+  <text x="1200" y="705" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">烘焙科學評判引擎</text>
+  <text x="1200" y="775" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">份量除算照抄優先判定</text>
+  <text x="1200" y="825" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">多重物理化學失誤加權</text>
+  <text x="1200" y="875" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">蛋白質筋性與梅納反應評估</text>
+  <text x="1200" y="925" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">主結局與診斷項目輸出</text>
+
+  <rect x="1640" y="620" width="640" height="360" rx="20" fill="#ffffff" stroke="#000000" stroke-width="5" />
+  <text x="1960" y="705" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#000000">多重結局與科學報告</text>
+  <text x="1960" y="775" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">六大蛋糕出爐狀態揭曉</text>
+  <text x="1960" y="825" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">全步驟科學診斷指標解析</text>
+  <text x="1960" y="875" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">主廚毒舌點評與改善方針</text>
+  <text x="1960" y="925" font-family="system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#222222">期末展示快速預覽支援</text>
+
+  <line x1="760" y1="280" x2="866" y2="280" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+  <line x1="880" y1="320" x2="774" y2="320" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+
+  <line x1="1520" y1="300" x2="1626" y2="300" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+
+  <path d="M 1960 420 L 1960 520 L 440 520 L 440 606" fill="none" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+
+  <line x1="760" y1="800" x2="866" y2="800" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+
+  <line x1="1520" y1="800" x2="1626" y2="800" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+
+  <path d="M 1200 620 L 1200 434" fill="none" stroke="#000000" stroke-width="4.5" marker-end="url(#arrow)" />
+</svg>
